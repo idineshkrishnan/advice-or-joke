@@ -1,0 +1,15 @@
+body {
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(192,192,192,1));
+}
+
+#advice {
+    font-size: 65px;
+}
+
+#joke {
+    font-size: 50px;
+}
+
+#question {
+    font-size: 65px;
+}
