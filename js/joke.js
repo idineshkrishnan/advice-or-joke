@@ -8,7 +8,7 @@ setInterval(function() {
 
 function getJoke() {
     $.ajax({
-        url: "http://api.icndb.com/jokes/random",
+        url: "https://api.icndb.com/jokes/random",
         method: "GET",
         success: function(response) { 
             $('#joke').html("\""+response.value.joke+"\"");
