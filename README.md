@@ -1,4 +1,4 @@
 # dk-free-advice
-DK`s free advice for everyone... LOL...
+DK`s free advice or jokes for everyone... LOL...
 
-[https://idineshkrishnan.github.io/dk-free-advice/](https://idineshkrishnan.github.io/dk-free-advice/)
+[https://idineshkrishnan.github.io/advice-or-joke/](https://idineshkrishnan.github.io/advice-or-joke/)
